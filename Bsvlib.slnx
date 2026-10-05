@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bsvlib/Bsvlib.csproj" />
+    <Project Path="src/Bsvlib.Crypto/Bsvlib.Crypto.csproj" />
+    <Project Path="src/Bsvlib.Core/Bsvlib.Core.csproj" />
+    <Project Path="src/Bsvlib.Bips/Bsvlib.Bips.csproj" />
+    <Project Path="src/Bsvlib.Spv/Bsvlib.Spv.csproj" />
+    <Project Path="src/Bsvlib.Bcrs/Bsvlib.Bcrs.csproj" />
+    <Project Path="src/Bsvlib.Protocols/Bsvlib.Protocols.csproj" />
+    <Project Path="src/Bsvlib.P2P/Bsvlib.P2P.csproj" />
+    <Project Path="src/Bsvlib.Vendors/Bsvlib.Vendors.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bsvlib.Crypto.Tests/Bsvlib.Crypto.Tests.csproj" />
+    <Project Path="tests/Bsvlib.Core.Tests/Bsvlib.Core.Tests.csproj" />
+    <Project Path="tests/Bsvlib.Bips.Tests/Bsvlib.Bips.Tests.csproj" />
+    <Project Path="tests/Bsvlib.Vendors.Tests/Bsvlib.Vendors.Tests.csproj" />
+    <Project Path="tests/Bsvlib.Spv.Tests/Bsvlib.Spv.Tests.csproj" />
+    <Project Path="tests/Bsvlib.Bcrs.Tests/Bsvlib.Bcrs.Tests.csproj" />
+    <Project Path="tests/Bsvlib.Protocols.Tests/Bsvlib.Protocols.Tests.csproj" />
+    <Project Path="tests/Bsvlib.P2P.Tests/Bsvlib.P2P.Tests.csproj" />
+  </Folder>
+</Solution>

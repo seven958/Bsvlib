@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Bsvlib.Crypto\Bsvlib.Crypto.csproj" />
+    <ProjectReference Include="..\Bsvlib.Core\Bsvlib.Core.csproj" />
+    <ProjectReference Include="..\Bsvlib.Bips\Bsvlib.Bips.csproj" />
+    <ProjectReference Include="..\Bsvlib.Spv\Bsvlib.Spv.csproj" />
+    <ProjectReference Include="..\Bsvlib.Bcrs\Bsvlib.Bcrs.csproj" />
+    <ProjectReference Include="..\Bsvlib.Protocols\Bsvlib.Protocols.csproj" />
+    <ProjectReference Include="..\Bsvlib.P2P\Bsvlib.P2P.csproj" />
+    <ProjectReference Include="..\Bsvlib.Vendors\Bsvlib.Vendors.csproj" />
+  </ItemGroup>
+</Project>
